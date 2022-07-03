@@ -1,5 +1,7 @@
 # Smart-Door-Lock-System
-[Video Demonstration](https://drive.google.com/file/d/17K_lzMUSTdzKPuC7fsYdXwY-0faaKabp/view?usp=sharing) 
+
+[Video Demonstration](https://drive.google.com/file/d/17Yuf7MNWemiouBdzNTPz0Y6UAHuafVlc/view?usp=sharing) 
+
 
 * The proposed system implements a password protected electronic lock that provides a great benefit over a traditional lock, as well as great security. The system comprises of a keypad and 16x2 LCD along with a arduino microcontroller. The present state is notified by the LCD to the user. 
 * User can perform operations such as opening and closing the lock, changing the current password through keypad instruction. The aim of this project is to make such type of lock which will ensure security as well as cost efficient implementation. Password protected electronic lock comprises of keypad as input, LCD display as output device and microcontroller as controlling unit. The lock system is protected by a password which is set by the user. The lock is opened only when the correct password is inserted. On the other hand,
