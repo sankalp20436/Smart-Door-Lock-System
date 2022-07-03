@@ -10,3 +10,19 @@
  <p align ="center" >
   <img  width="700" src="https://github.com/sankalp20436/Smart-Door-Lock-System/blob/main/circuit.png" alt="Material Bread logo">
   </p>
+ 
+ * Whenever a person comes system asks to enter the password to grant acess-
+ <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Smart-Door-Lock-System/blob/main/password.png" alt="Material Bread logo">
+  </p>
+
+* When password is incorrect acess is denied and alarm starts-
+ <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Smart-Door-Lock-System/blob/main/denied.png" alt="Material Bread logo">
+  </p>
+
+* When password is correct the door opens automatically welcoming the user-
+ <p align ="center" >
+  <img  width="700" src="https://github.com/sankalp20436/Smart-Door-Lock-System/blob/main/correct.png" alt="Material Bread logo">
+  </p>
+
